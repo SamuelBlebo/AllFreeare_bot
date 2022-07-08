@@ -1,1 +1,1 @@
-but: Python main.Python 
+bot: python main.py
